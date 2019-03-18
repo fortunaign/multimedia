@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+#head {
+    background-color: bisque;
+}
+
+#menu {
+    background-color:  blanchedalmond;
+}
+
+#cont {
+    background-color:  silver;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
